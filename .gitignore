@@ -1,0 +1,9 @@
+.env
+.DS_Store
+.vscode
+.idea
+.idea/workspace.code-workspace
+.idea/caches
+.idea/remote-hosts
+.idea/remote-hosts.json
+.idea/remote-hosts.xml
